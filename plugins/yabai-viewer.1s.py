@@ -3,7 +3,7 @@
 # <xbar.title>Yabai Viewer</xbar.title>
 # <xbar.author>Ryan Moore</xbar.author>
 # <xbar.author.github>ryan-mooore</xbar.author.github>
-# <xbar.image>http://i.imgur.com/608LQ25.png</xbar.image>
+# <xbar.image>https://raw.githubusercontent.com/ryan-mooore/xbar-plugins/master/images/yabai-viewer.png</xbar.image>
 # <xbar.desc>Visual indicator of spaces and what apps are on them in your menu bar. Most customisation is below. Customisation of symbols/UI elements can be done at the top of the script (xbar > Open plugin folder...) and find the script for this plugin</xbar.desc>
 # <xbar.dependencies>python</xbar.dependencies>
 # <xbar.version>v1.0</xbar.version>
